@@ -9,6 +9,7 @@ a,
 a:active,
 a:before {
   color: red;
+  font-style: none;
 }
 
 .logo,
@@ -25,6 +26,10 @@ footer {
   font-size: 14px;
 }
 
+.rules li {
+  padding-top: 20px;
+}
+
 footer {
-  padding-top: 100px;
+  padding-top: 50px;
 }
