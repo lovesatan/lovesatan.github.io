@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font: 100%/150% "Lucida Sans Unicode", "Verdana", "Arial", "Helvetica",
+   sans-serif;
+}
+
+.logo,
+.info,
+footer {
+  text-align: center;
+}
+
+.content {
+  padding-left: 200px;
+}
+
+a,
+a:active,
+a:before {
+  color: red;
+}
+
+footer {
+  padding-top: 100px;
+}
