@@ -5,6 +5,12 @@ body {
    sans-serif;
 }
 
+a,
+a:active,
+a:before {
+  color: red;
+}
+
 .logo,
 .info,
 footer {
@@ -12,13 +18,11 @@ footer {
 }
 
 .content {
-  padding-left: 200px;
+  width: 666px;
+  margin: auto;
 }
-
-a,
-a:active,
-a:before {
-  color: red;
+.content li a {
+  font-size: 14px;
 }
 
 footer {
