@@ -23,6 +23,20 @@ footer {
   width: 666px;
   margin: auto;
 }
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+  .content {
+    width: 300px;
+    margin: auto;
+  }
+  img {
+    width: 150px;
+  }
+}
+
+
 .links,
 .content li a {
   font-size: 14px;
