@@ -58,7 +58,10 @@ and (max-device-width : 480px) {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-
+.answer {
+  font-style: italic;
+  font-size: 15px;
+}
 footer {
   padding-top: 50px;
 }
