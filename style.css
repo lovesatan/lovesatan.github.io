@@ -10,6 +10,7 @@ a:active,
 a:before {
   color: red;
   font-style: none;
+  text-decoration: none;
 }
 
 .logo,
